@@ -180,11 +180,11 @@ const Index = () => (
               Transforming Etherscan.io's REST api into a fancy GraphQL api
             </ProjectCard>
             <ProjectCard
-              title="Another Project Here soon"
-              link=""
+              title="Writers Blog"
+              link="https://github.com/natepappenhagen/Project4_Blog"
               bg="linear-gradient(to right, #108dc7 0%, #ef8e38 100%)"
             >
-              Another Project Here soon
+              Simple blog app built with Python Django and Postgres on the backend and React on the frontend.
             </ProjectCard>
             <ProjectCard
               title="Piggy Bank"
