@@ -249,8 +249,8 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Etherscan's REST API wrapped in graphQL"
-              link="https://z81urwmpq2.execute-api.us-west-2.amazonaws.com/staging/graphql"
+              title="Etherscan's REST API wrapped in graphQL (Please append /staging to endpoint to reach server)"
+              link="https://z81urwmpq2.execute-api.us-west-2.amazonaws.com/staging/"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
               Transforming Etherscan.io's REST api into a fancy GraphQL api
