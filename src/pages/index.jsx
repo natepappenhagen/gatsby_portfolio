@@ -233,7 +233,7 @@ const Index = () => (
           <BigTitle>
             Hello, <br /> I'm Nate Pappenhagen.
           </BigTitle>
-          <Subtitle>& I love building modern web applications</Subtitle>
+          <Subtitle>and I love building modern web applications</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -247,7 +247,7 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Etherscan's REST API wrapped in graphQL (Please append /staging to endpoint to reach server)"
+              title="Etherscan.io's REST API wrapped in graphQL"
               link="https://github.com/natepappenhagen/etherscan-graphQL-API"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
