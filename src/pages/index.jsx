@@ -233,9 +233,7 @@ const Index = () => (
           <BigTitle>
             Hello, <br /> I'm Nate Pappenhagen.
           </BigTitle>
-          <Subtitle>
-            building modern web applications for the internets
-          </Subtitle>
+          <Subtitle>& I love building modern web applications</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -250,7 +248,7 @@ const Index = () => (
           <ProjectsWrapper>
             <ProjectCard
               title="Etherscan's REST API wrapped in graphQL (Please append /staging to endpoint to reach server)"
-              link="https://z81urwmpq2.execute-api.us-west-2.amazonaws.com/staging/"
+              link="https://github.com/natepappenhagen/etherscan-graphQL-API"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
               Transforming Etherscan.io's REST api into a fancy GraphQL api
@@ -260,7 +258,7 @@ const Index = () => (
               link="https://github.com/natepappenhagen/Project4_Blog"
               bg="linear-gradient(to right, #108dc7 0%, #ef8e38 100%)"
             >
-              Simple blog app built with Python Django and Postgres on the
+              Simple blog app built with Python Django '&' Postgres on the
               backend and React on the frontend.
             </ProjectCard>
             <ProjectCard
@@ -268,10 +266,10 @@ const Index = () => (
               link="https://github.com/natepappenhagen/piggy-bank"
               bg="linear-gradient(to right, #3CA55C 0%, #B5AC49 100%)"
             >
-              Basic CryptoCurrency portfolio tracker. This first foray into
-              full-stack web-apps built entirely with NodeJS. I got to practice
-              consuming public APIs a lot! Standard MVC philosophy (no front end
-              framework was used) views were managed with EJS templating.
+              Basic CryptoCurrency portfolio tracker. My first foray into
+              full-stack web-apps built entirely with NodeJS. Standard MVC
+              philosophy (no front end framework was used) views were managed
+              with EJS templating.
             </ProjectCard>
             <ProjectCard
               title="World DOM-ination"
